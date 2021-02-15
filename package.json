@@ -1,0 +1,19 @@
+{
+  "name": "coursera-angular-spa",
+  "version": "1.0.0",
+  "description": "curso angular in spa",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --directory --files '**/*'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyCastroVentura/coursera-Angular-SPA.git"
+  },
+  "author": "daniel ventura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DannyCastroVentura/coursera-Angular-SPA/issues"
+  },
+  "homepage": "https://github.com/DannyCastroVentura/coursera-Angular-SPA#readme"
+}
